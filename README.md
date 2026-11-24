@@ -15,13 +15,16 @@ Building cloud infrastructure, automating workflows and exploring AI-powered Dev
 
 ## 🚀 About Me
 
-- 👨‍💻 IT professional with 4 years of experience in Desktop Support.
-- ☁️ Building hands-on projects in AWS and DevOps.
-- 🐳 Working with Docker and Kubernetes.
-- ⚙️ Exploring CI/CD, GitOps and Infrastructure as Code.
-- 🐍 Learning Python for automation.
-- 🤖 Exploring Agentic AI and AI-powered DevOps tools.
-- 🎯 Focused on growing as a DevOps Engineer.
+I'm a **DevOps Engineer** from 🇮🇳 India with **5+ years of IT experience (3+ in DevOps)**, specializing in AWS, Kubernetes, and CI/CD automation. I'm passionate about building reliable cloud infrastructure and exploring how agentic AI can make DevOps work smarter.
+
+- 🔭 Currently working on **AWS (EKS), Terraform, Jenkins, and Argo CD (GitOps)** pipelines, and building **AI agents** with LangChain, MCP, and Ollama
+- 🤖 Building Agentic AI solutions for DevOps and Docker troubleshooting
+- ⚙️ Building CI/CD pipelines and GitOps workflows using Jenkins and ArgoCD
+- 🏅 **AWS Certified:** Solutions Architect – Associate & DevOps Engineer – Professional
+- 💬 Ask me about AWS, Docker, Kubernetes, Terraform, CI/CD, Python, and DevOps automation
+- 👯 Open to collaborating on DevOps projects, Cloud-native solutions, and AI automation initiatives
+- ⚡ Fun fact: I like cutting cloud bills — I reduced AWS costs by ~20% by right-sizing resources and cleaning up unused ones
+
 
 ---
 
